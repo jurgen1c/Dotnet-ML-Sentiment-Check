@@ -1,0 +1,4 @@
+/mnt/d/Dotnet/MLApp/consumeModelApp/obj/Debug/netcoreapp3.1/consumeModelApp.csprojAssemblyReference.cache
+/mnt/d/Dotnet/MLApp/consumeModelApp/obj/Debug/netcoreapp3.1/consumeModelApp.AssemblyInfoInputs.cache
+/mnt/d/Dotnet/MLApp/consumeModelApp/obj/Debug/netcoreapp3.1/consumeModelApp.AssemblyInfo.cs
+/mnt/d/Dotnet/MLApp/consumeModelApp/obj/Debug/netcoreapp3.1/consumeModelApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+/mnt/d/Dotnet/MLApp/consumeModelApp/SampleClassification/SampleClassification.Model/bin/Debug/netstandard2.0/MLModel.zip
+/mnt/d/Dotnet/MLApp/consumeModelApp/SampleClassification/SampleClassification.Model/bin/Debug/netstandard2.0/SampleClassification.Model.deps.json
+/mnt/d/Dotnet/MLApp/consumeModelApp/SampleClassification/SampleClassification.Model/bin/Debug/netstandard2.0/SampleClassification.Model.dll
+/mnt/d/Dotnet/MLApp/consumeModelApp/SampleClassification/SampleClassification.Model/bin/Debug/netstandard2.0/SampleClassification.Model.pdb
+/mnt/d/Dotnet/MLApp/consumeModelApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.csprojAssemblyReference.cache
+/mnt/d/Dotnet/MLApp/consumeModelApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.AssemblyInfoInputs.cache
+/mnt/d/Dotnet/MLApp/consumeModelApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.AssemblyInfo.cs
+/mnt/d/Dotnet/MLApp/consumeModelApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.csproj.CoreCompileInputs.cache
+/mnt/d/Dotnet/MLApp/consumeModelApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.dll
+/mnt/d/Dotnet/MLApp/consumeModelApp/SampleClassification/SampleClassification.Model/obj/Debug/netstandard2.0/SampleClassification.Model.pdb
